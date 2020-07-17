@@ -10,20 +10,20 @@ Quick start
 -----------
 
 <ol>
-    <li>Add "users" to your INSTALLED_APPS setting like this::
+    <li>Add "users" to your INSTALLED_APPS setting like this:
 
     INSTALLED_APPS = [
         ...
         'crispy_forms',
         'users.apps.UsersConfig',
     ]
-
+    </li>
+    
+    <li>
     Create a folder name "media" inside your projects folder, the one with manage.py
     </li>
 
-    <li>Read the settings.txt from inside the 'users' folder, 
-    there are two paragraphs which need to be added to
-    your project settings file.
+    <li>Read the settings.txt from inside the 'users' folder, there are two paragraphs which need to be added to your project settings file.
     <ul>
         <li>The Fist paragraph("""Settings File""") needs to be attached at the bottom of your settings.py file</li>
         <li>The Second paragraph("""Urls File""") needs to be attached, along with the others urls in your urls.py file (make changes if path names collide)</li>
