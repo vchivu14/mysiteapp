@@ -1,11 +1,4 @@
-=====
-Users
-=====
 
-Users is a Django app to create profiles and provide login.
-
-Quick start
------------
 
 
 <ol>
