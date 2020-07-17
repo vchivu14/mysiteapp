@@ -2,11 +2,12 @@
 
 
 <ol>
-  <li>Add "users" to your INSTALLED_APPS setting like this:
+  <li>
+  Add "users" to your INSTALLED_APPS setting like this:
   INSTALLED_APPS = [
-  ...
-  'crispy_forms',
-  'users.apps.UsersConfig',
+    ...
+    'crispy_forms',
+    'users.apps.UsersConfig',
   ]
   </li>
   <li>cd blogapp</li>
