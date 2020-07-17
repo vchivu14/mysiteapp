@@ -10,11 +10,11 @@ Quick start
 
 <ol>
   <li>Add "users" to your INSTALLED_APPS setting like this:
-    INSTALLED_APPS = [
-        ...
-        'crispy_forms',
-        'users.apps.UsersConfig',
-    ]
+  INSTALLED_APPS = [
+  ...
+  'crispy_forms',
+  'users.apps.UsersConfig',
+  ]
   </li>
   <li>cd blogapp</li>
   <li>python3 -m venv venv</li>
