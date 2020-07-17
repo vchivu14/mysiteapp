@@ -26,7 +26,7 @@ Quick start
     your project settings file.
     <ul>
         <li>The Fist paragraph("""Settings File""") needs to be attached at the bottom of your settings.py file</li>
-        <li>The Second paragraph("""Urls File""") needs to be attached, along with the others urls in your urls.py file (make changes if path names collide)
+        <li>The Second paragraph("""Urls File""") needs to be attached, along with the others urls in your urls.py file (make changes if path names collide)</li>
     </ul>
     </li>
 
